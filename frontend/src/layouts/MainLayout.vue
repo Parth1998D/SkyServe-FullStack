@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <q-header elevated v-if="!hideHeader()">
       <q-toolbar>
-        <q-toolbar-title> SkyServe Assignment </q-toolbar-title>
+        <q-toolbar-title class="text-center"> SkyServe Assignment </q-toolbar-title>
       </q-toolbar>
     </q-header>
 
